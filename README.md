@@ -98,10 +98,11 @@ Or run MainApp.java directly from your IDE.
 
 📂 Sample Output
 
-![img alt](https://github.com/PranjaliSidral9625/Quanticare-System/blob/0af459825cb1fa570dccea98d5ce60214ba1cf55/QuanticareSystemVSCode/output.png)
 
 
----
+
+---<img width="1023" height="600" alt="output" src="https://github.com/user-attachments/assets/d88937d6-faf3-4ac7-a293-7c3555f0df5b" />
+
 
 🌟 What Makes Quanticare Unique?
 
@@ -113,7 +114,8 @@ Or run MainApp.java directly from your IDE.
 
 
 
----
+---<img width="1023" height="600" alt="output" src="https://github.com/user-attachments/assets/fdffd872-b893-4e25-8339-e78162e384d5" />
+
 
 🙋‍♀ Author
 
