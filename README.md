@@ -98,7 +98,7 @@ Or run MainApp.java directly from your IDE.
 
 📂 Sample Output
 
-<img src="C:\Users\pranj\Downloads\QuanticareSystemVSCode\Screenshot 2025-07-15 165334.png"width="400">
+![img alt](https://github.com/PranjaliSidral9625/Quanticare-System/blob/0af459825cb1fa570dccea98d5ce60214ba1cf55/QuanticareSystemVSCode/output.png)
 
 
 ---
